@@ -1,0 +1,7 @@
+{
+  "name": "snow-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.19.0"
+  }
+}
