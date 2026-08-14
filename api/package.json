@@ -1,7 +1,9 @@
 {
-  "name": "snow-api",
+  "name": "vic-snow-api",
   "version": "1.0.0",
+  "description": "Victorian Snow API for Azure SWA",
+  "main": "snow/index.js",
   "dependencies": {
-    "axios": "^1.19.0"
+    "axios": "^1.6.0"
   }
 }
